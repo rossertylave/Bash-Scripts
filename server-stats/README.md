@@ -1,8 +1,8 @@
-Server Performance Stats
+# Server Performance Stats
 
 A bash script to analyse basic server performance stats.
 
-Getting Started
+## Getting Started
 
 #1 git clone https://github.com/rossertylave/Bash-Scripts/blob/main/server-stats/server-stats.sh
 

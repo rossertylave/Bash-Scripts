@@ -12,6 +12,6 @@ Make the script executable
 
 Execute the Script
 
-#3./server-stats.sh
+#3. /server-stats.sh
 
 https://roadmap.sh/projects/nginx-log-analyser
